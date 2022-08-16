@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    .embed {
+        width: 80% !important;
+    }
+    .main-div .bot .bot-info {
+        flex-direction: column;
+    }
+    .main-div .bot .bot-info img {
+        align-self: center;
+    }
+    .main-div .bot .bot-info .bot-info-text {
+        align-self: center;
+    }
+    .main-servers-div .servers-contanier .server-content {
+        width: 350px;
+        height: 140px;
+    }
+}

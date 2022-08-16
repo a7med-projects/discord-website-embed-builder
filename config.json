@@ -1,0 +1,8 @@
+{
+    "token": "",
+    "clientid": "",
+    "clientsecret": "",
+    "callbackURL": "/login",
+    "discordserver": "",
+    "port": "3001"
+}
